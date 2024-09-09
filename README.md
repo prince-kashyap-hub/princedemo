@@ -1,3 +1,3 @@
 # princedemo
-this is to learn GitHub
+this is to learn GitHub<br>
 Author name: Prince kashyap
